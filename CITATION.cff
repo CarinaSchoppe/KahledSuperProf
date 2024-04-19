@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Schoppe"
+  given-names: "Carina Sophie"
+  orcid: "https://orcid.org/0009-0006-3211-5242"
+title: "Text-Content Analyser"
+version: 1.0.0
+doi: tba
+date-released: 2023-04-4
+url: "https://github.com/CarinaSchoppe/Text-Content-Analyser"
